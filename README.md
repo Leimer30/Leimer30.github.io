@@ -1,8 +1,8 @@
 <h1>Hello! Thanks for visiting!</h1>
 
-Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student and wants to learn more in programming and become an **IT professional** someday.<br><br>
+Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student from the Philippines<br><br>
 <a href="https://www.youtube.com/remielolendan"><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Remiel+Olendan+20+years+old;BSIT+Student;Hoping+to+learn+more+in+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Remiel+Olendan+20+years+old;BSIT+Student;Hoping+to+learn+more+in+programming;Wants+to+learn+more+in+programming+and+become+an+IT professional+someday.)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-olendanmiel@gmail.com-red)](mailto:olendanmiel@gmail.com)
 
