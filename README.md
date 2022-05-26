@@ -7,8 +7,7 @@ Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student from t
 [![](https://img.shields.io/badge/Gmail-olendanmiel@gmail.com-red)](mailto:olendanmiel@gmail.com)
 
 ### How to reach me: 
-<a href="mailto: olendanmiel@gmail.com"> <a href="mailto: leimermael@gmail.com">
-
+ 
  <img src="https://img.shields.io/badge/Leimer30.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Tools I work upon : 🛠
