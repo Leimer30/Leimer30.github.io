@@ -1,4 +1,4 @@
-<h1>Hello! Thanks for visiting!</h1>
+<h1>Hello there! Thanks for visiting!</h1>
 
 Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student from the Philippines<br><br>
 <a href="https://www.youtube.com/remielolendan"><br><br>
@@ -7,13 +7,9 @@ Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student from t
 [![](https://img.shields.io/badge/Gmail-olendanmiel@gmail.com-red)](mailto:olendanmiel@gmail.com)
 
 ### How to reach me: 
-<a href="mailto: olendanmiel@gmail.com">
+<a href="mailto: olendanmiel@gmail.com"> <a href="mailto: leimermael@gmail.com">
 
  <img src="https://img.shields.io/badge/Leimer30.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
-
-### Current Status Quo:
-
-- 👀 See my [Personal Portfolio](https://Leimer30.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
 
