@@ -1,6 +1,6 @@
 <h1>Hello there! Thanks for visiting!</h1>
 
-Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student from the Philippines<br><br>
+Im **Remiel Olendan** also known as **Leimer30**, A **BSIT** student from the Philippines<br><br>
 <a href="https://www.youtube.com/remielolendan"><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Remiel+Olendan+20+years+old;BSIT+Student;Wants+to+learn+more+in+programming.)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@ Im **Remiel Olendan** also known as **Leimer30**, I am a **BSIT** student from t
 
 ### How to reach me: 
  
- <img src="https://img.shields.io/badge/Leimer30.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+ <img src="https://img.shields.io/badge/Leimer30.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white">
 
 ### Tools I work upon : 🛠
 
