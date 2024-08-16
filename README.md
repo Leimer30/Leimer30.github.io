@@ -2,7 +2,7 @@
 
 Im **Remiel Olendan** AKA **Leimer30**, A **BSIT** student from the Philippines<br><br>
 <a href="https://www.youtube.com/remielolendan"><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Remiel+Olendan+22+years+old;Bachelor+of+Science+in;Information+Technology+Graduate.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Remiel+Olendan+22+years+old;Bachelor+of+Science+in+Information+Technology;Graduate.)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-olendanmiel@gmail.com-red)](mailto:olendanmiel@gmail.com)
 
